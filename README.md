@@ -1,10 +1,21 @@
 # waterworldpark
 
-A new Flutter project.
+This is a sample Android application built with Kotlin/Java using Android Studio.
+
+## Features
+- User authentication
+- Real-time data sync
+- Clean architecture (MVVM)
+
+## Tech Stack
+- Kotlin / Java
+- Jetpack Compose / XML
+- Firebase / Room
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
+1. Clone the repo
+2. Open in Android Studio
+3. Run the app on emulator or device
 
 A few resources to get you started if this is your first Flutter project:
 
